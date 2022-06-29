@@ -24,13 +24,14 @@
 <p align='center'>
   🔑 GPG: 0x4b7228cfe59b7380
 </p>
+
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> visitors came here
+  <a href='https://tobiasbetz.de'>📃 Resume</a>
 </p>
 
-<a href='https://tobiasbetz.de'>📃 Resume</a>
-
-
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/eixix/eixix"></a> visitors came here
+</p>
 
 <!--
 **Eixix/Eixix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
