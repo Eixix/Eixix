@@ -1,4 +1,36 @@
-### Hi there 👋
+
+
+<h1 align='center'>
+  Hi there 👋 I'm Tobias 👨‍💻
+</h1>
+
+<p align='center'>
+  A student and fullstack developer from Germany.
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/tobibetz/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Eixix&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+  🔑 GPG: 0x4b7228cfe59b7380
+</p>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> visitors came here
+</p>
+
+<a href='https://tobiasbetz.de'>📃 Resume</a>
+
+
 
 <!--
 **Eixix/Eixix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
