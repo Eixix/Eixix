@@ -30,7 +30,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/eixix/eixix"></a> visitors came here
+  <a href="#"><img src="https://badges.pufler.dev/visits/eixix/eixix"></a>
 </p>
 
 <!--
