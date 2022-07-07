@@ -29,10 +29,6 @@
   <a href='https://tobiasbetz.de'>📃 Resume</a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/eixix/eixix"></a>
-</p>
-
 <!--
 **Eixix/Eixix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
