@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A student and fullstack developer from Germany.
+  A fullstack developer and devops guy from Germany.
 </p>
 
 
